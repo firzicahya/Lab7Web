@@ -10,13 +10,13 @@ Menjalankan Web Server,ubtuk menjalankan Web Server dari menu XAMPP Control
 Step 3
 Buat file lab7_php_dasar pada root directory web server (C:\xampp\htdocs)
 ![image](https://user-images.githubusercontent.com/73973590/168621452-27871016-0f8f-490f-9869-d952eb61f757.png)
-Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
+Setelah itu untuk akses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab7_php_dasar/
 Step 4
 Buat file baru dengan nama php_dasar.php pada directory tersebut.
 ![Screenshot (110)](https://user-images.githubusercontent.com/73973590/168621749-4c938d18-5745-47b9-b7c6-abf0f51b0dde.png)
 ![Screenshot (111)](https://user-images.githubusercontent.com/73973590/168621790-b7e92b79-ce76-4ee7-9e84-3572b45b1788.png)
-Kemudian untuk mengakses hasilnya melalui URL:
+Setelah itu untuk mengakses hasilnya melalui URL:
 http://localhost/lab7_php_dasar/php_dasar.php
 Step 5
 Menambahkan variable pada program
