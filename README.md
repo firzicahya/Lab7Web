@@ -1,4 +1,5 @@
-Step Buy Step 
+
+Membuat PHP Dasar
 
 Step 1
 Install terlebih dahulu XAMPP Kemudian extract file tersebut, seusikan
